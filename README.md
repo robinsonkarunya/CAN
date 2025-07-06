@@ -1,4 +1,4 @@
-# CAN
+# Controller Area Network using LPC2129
 Vehicle Dashboard using CAN protocol
 Problem statement: Traditional vehicle dashboards lack real-time integration of fuel level, turn
 indicators, and wiper modes, making it difficult for drivers to monitor and manage these functions
